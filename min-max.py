@@ -19,3 +19,4 @@ numbers = [34,5,1,7,15,0,-1,45,999]
 min, max = find_min_max(numbers)
 
 print(f"minimum is {min} and maximum is {max}" )
+
